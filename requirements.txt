@@ -1,2 +1,1 @@
-# Add dependencies as needed
-# e.g. pandas, requests, jupyter
+monarch-py

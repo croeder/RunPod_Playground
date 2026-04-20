@@ -18,6 +18,10 @@ venv/
 *.csv
 *.parquet
 *.db
+*.duckdb
+*.tsv
+*.tsv.gz
+data/
 
 # OS
 .DS_Store
